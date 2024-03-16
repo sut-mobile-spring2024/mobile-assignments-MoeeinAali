@@ -1,4 +1,4 @@
-# Mobile Assignments
+# Mobile-Programming Assignments
 
 ### Student Name: Moeein Aali
 
