@@ -1,41 +1,19 @@
-# CE429-MP
-Solutions to Mr. Ahmadi-Nik's CE429: Mobile Programming (Sharif University of Technology - Spring 2024)
+# Mobile-Programming Assignments
 
-## Overview
+### Student Name: Moeein Aali
 
-This repository contains solutions to the assignments for the CE429: Mobile Programming course at the Sharif University of Technology, Spring 2024, taught by Mr. Ahmadi-Nik.
+### Student Code: 401105561
 
-## Table of Contents
+# Notes: 
 
-- [Overview](#overview)
-- [Assignments](#assignments)
-- [Exams](#exams)
-- [Slides](#slides)
-- [Notes](#notes)
-- [Source](#source)
-- [Maintainer](#maintainer)
++  For each assignment that requires implementation, create a folder specifically for that assignment in your repository. Name the folder appropriately to reflect the assignment topic or number for easy identification.
 
-## Assignments
 
-In the "Assignments" folder, you will find the solutions to assignments given during the course.
++ Any **unusual similarity** in codes will be dealt with according to the course policy. Consulting and brainstorming in solving questions is positive and recommended, but <u>sharing codes with each other and cheating in all exercise questions is strictly unacceptable and prohibited.</u> Instances of academic dishonesty will be taken seriously, and measures may include grade penalties, failing the course, or further disciplinary action.
 
-## Exams
++ In case of any problems, you can be in contact with the **TA**s:
+    + Quera: https://quera.org/course/17000/
+    + Feel free to raise issues or questions directly in the GitHub repository under the "Issues" section. Please tag the appropriate TA for visibility.
 
-In the "Exams" folder, you will find the solutions to the midterm and final of the course.
 
-## Slides
-
-In the "Slides" folder, you will find the course slides.
-
-## Notes
-
-In the "Notes" folder, you will find the course notes.
-
-## Source
-
-In the "Source" folder, you will find the source of the course.
-
-## Maintainer
-
-- [Moeein Aali](https://github.com/moeeinaali)
-
+We wish you success in this course and look forward to seeing your innovative solutions and learning together. Remember, the journey is as important as the destination. Keep experimenting, keep learning, and don't hesitate to reach out for help when you need it. :)
