@@ -2,7 +2,7 @@
 This question refers to four programs created using **RelativeLayout XML** and the **Kotlin** language.
 
 1. [LoginForm](./LoginForm)
-<br>
+   <br>
    <img src="LoginForm/1.png" alt="LoginForm" width="70%">
 
 2. [SimpleCalculator](SimpleCalculator)
@@ -22,8 +22,3 @@ This question refers to four programs created using **RelativeLayout XML** and t
    <img src="SimpleDesign/5.png" alt="LoginSuccessful" width="70%"><br><br>
    <img src="SimpleDesign/6.png" alt="LoginSuccessful" width="70%">
 
-
-## XML Codes
-
-```
-```
